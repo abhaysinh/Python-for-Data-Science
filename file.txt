@@ -1,0 +1,4 @@
+Hello
+Today is very beautiful day
+Learning is important
+I love learning Python language
